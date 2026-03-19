@@ -1,5 +1,5 @@
 # Fuel
-as50sb.github.io/fuel，自动指向Fuel网站as50sb.github.io
+as50sb.github.io/fuel
 # 网址一览：
 as50sb.github.io 主要网址，为Fuel网站  
 
